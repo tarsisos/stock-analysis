@@ -4,5 +4,6 @@ These projects was made during the event Python Solutions Week, instructed by [O
 
 This repository contains:
 1) [Notebook](/API_%2B_PDF.ipynb) analysis from **EA Games** listed on Nasdaq;
-2) [Dashboard](/dashboard.py) using Streamlit, accessing YFinance API to get market stocks from **Microsoft**, **IBM**, **Apple** and **Alphabet (Google)**;
+2) [Dashboard](/dashboard.py) using Streamlit, accessing YFinance API to get market stocks from **Microsoft**, **IBM**, **Apple** and **Alphabet (Google)**.<br>
+Click [here](https://tarsisos-stock-analysis-dashboard-5uj8ky.streamlit.app/) to access the online version;
 3) [Notebook](/Web_Scraping_News.ipynb) to web scrap about any news the user wants, using Beautiful Soup.
